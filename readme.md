@@ -41,7 +41,7 @@ The training process was performed to develop and evaluate a model for detecting
 Clone this repository to your local machine:
 
 ```bash
-git clone <https://github.com/RHW48/License-Plate-Detection.gitl>
+git clone <https://github.com/RHW48/License-Plate-Detection.git>
 ```
 
 ### 2. Open the Project
