@@ -1,0 +1,5 @@
+# YOLO / PyTorch model files
+*.pt
+
+# Dataset / test data
+test.csv
